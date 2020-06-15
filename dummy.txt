@@ -1,4 +1,3 @@
 dummy file
 with
-some
-text
+qwewqe
